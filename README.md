@@ -1,4 +1,5 @@
 # RoomDatabase-Android
+* use SqlLite android to see data.
 # How to use
 * use like your package
 1. get instance
